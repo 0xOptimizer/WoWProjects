@@ -1,0 +1,10 @@
+## Interface: 70350
+## Title: |cff9a29ffW|r|cff9c29ffy|r|cff9e2affr|r|cff9f2affm|r|cffa12affu|r|cffa32bff'|r|cffa52bffs|r|cffa72cff |r|cffa82cffF|r|cffaa2cffu|r|cffac2dffn|r|cffae2dffd|r|cffaf2dffa|r|cffb12effm|r|cffb32effe|r|cffb52fffn|r|cffb72ffft|r|cffb82fffa|r|cffba30ffl|r|cffbc30ffs|r |cffc3a8dbv0.3-alpha|r
+## Version: 0.4-alpha
+## Notes: |cffffcc00Wyrmu's Timers|r contains proper timings for kills and loots on group farms.
+## Author: Wyrmu (Optimizer)
+## eMail: the_optimizer13@yahoo.com
+## DefaultState: enabled
+## SavedVariables: WyrmuFundamentalsDB
+
+Core.lua
